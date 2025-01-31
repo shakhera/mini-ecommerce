@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "img": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    },
+    {
+      "id": 2,
+      "img": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "img": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "img": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    }
+  ]
+}

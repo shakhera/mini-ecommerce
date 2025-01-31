@@ -5,6 +5,7 @@ import Serum from "./Serum";
 import FaceCream from "./FaceCream";
 import HurryUpOffer from "./HurryUpOffer";
 import TestimonialSection from "./TestimonialSection";
+import InstragramPhoto from "./InstragramPhoto";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
         <HurryUpOffer />
 
         <TestimonialSection />
+        <InstragramPhoto />
       </div>
     </section>
   );
