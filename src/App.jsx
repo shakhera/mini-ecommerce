@@ -5,7 +5,7 @@ import Home from "./pages/Home/Home";
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-100">
+    <div className="min-h-screen ">
       <Navbar />
       <div className="container mx-auto p-4">
         <Routes>

@@ -2,6 +2,8 @@ import React from "react";
 import HeroSection from "./HeroSection";
 import TrendingProduct from "./TrendingProduct";
 import Serum from "./Serum";
+import FaceCream from "./FaceCream";
+import HurryUpOffer from "./HurryUpOffer";
 
 const Home = () => {
   return (
@@ -10,6 +12,8 @@ const Home = () => {
         <HeroSection />
         <TrendingProduct />
         <Serum />
+        <FaceCream />
+        <HurryUpOffer />
       </div>
     </section>
   );
