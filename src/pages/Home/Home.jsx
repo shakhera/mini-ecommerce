@@ -7,6 +7,7 @@ import HurryUpOffer from "./HurryUpOffer";
 import TestimonialSection from "./TestimonialSection";
 import InstragramPhoto from "./InstragramPhoto";
 import LatestBlog from "./LatestBlog";
+import FlawlessFoundation from "./FlawlessFoundation";
 
 const Home = () => {
   return (
@@ -17,7 +18,7 @@ const Home = () => {
         <Serum />
         <FaceCream />
         <HurryUpOffer />
-
+        <FlawlessFoundation />
         <TestimonialSection />
         <LatestBlog />
         <InstragramPhoto />
