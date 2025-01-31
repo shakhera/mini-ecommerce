@@ -53,7 +53,7 @@ const InstragramPhoto = () => {
       </div>
 
       <div
-        className="relative ease-linear duration-300 flex items-center gap-3"
+        className="relative ease-linear duration-300 flex items-center gap-2"
         style={{ transform: `translateX(-${currentIndex * 10}%)` }}
       >
         <div
