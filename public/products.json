@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ra. Men Large Polo T Shirt",
+      "rating": 4.5,
+      "description": "Comfortable and stylish large polo T-shirt for men.",
+      "stock": 10,
+      "reviews": [],
+      "price": 39.0,
+      "discountedPrice": 33.0,
+      "discount": "15%",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png",
+      "tags": ["New", "New 1: 25%", "New 2: 15%"]
+    },
+    {
+      "id": 2,
+      "title": "Zk. Women Short T Shirt",
+      "rating": 4.2,
+      "description": "Trendy short T-shirt for women, perfect for summer.",
+      "stock": 15,
+      "reviews": [],
+      "price": 80.0,
+      "discountedPrice": null,
+      "discount": null,
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png",
+      "tags": ["New"]
+    },
+    {
+      "id": 3,
+      "title": "Ca. Long T Shirt for Summer",
+      "rating": 4.7,
+      "description": "Lightweight and breathable long T-shirt for summer.",
+      "stock": 20,
+      "reviews": [],
+      "price": 45.0,
+      "discountedPrice": 30.0,
+      "discount": "33%",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png",
+      "tags": ["New", "New 2: 15%"]
+    },
+    {
+      "id": 4,
+      "title": "Ya. Long Earring",
+      "rating": 4.8,
+      "description": "Elegant long earrings for a stylish look.",
+      "stock": 5,
+      "reviews": [],
+      "price": 21.0,
+      "discountedPrice": 19.0,
+      "discount": "10%",
+      "image": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png",
+      "tags": ["New", "New 1: 25%"]
+    }
+  ]
+}
