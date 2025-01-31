@@ -4,6 +4,7 @@ import TrendingProduct from "./TrendingProduct";
 import Serum from "./Serum";
 import FaceCream from "./FaceCream";
 import HurryUpOffer from "./HurryUpOffer";
+import TestimonialSection from "./TestimonialSection";
 
 const Home = () => {
   return (
@@ -14,6 +15,8 @@ const Home = () => {
         <Serum />
         <FaceCream />
         <HurryUpOffer />
+
+        <TestimonialSection />
       </div>
     </section>
   );
